@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Acai Juice",
+    "quantity": "8 fl. oz. (240 ml)",
+    "calories": 139,
+    "expiry": "00:00:00, 01-01-2023"
+  },
+  {
+    "name": "Aloe Vera",
+    "quantity": "8 fl. oz. (240 ml)",
+    "calories": 106,
+    "expiry": "00:00:00, 01-02-2023"
+  },
+  {
+    "name": "Apple Juice",
+    "quantity": "8 fl. oz. (240 ml)",
+    "calories": 110,
+    "expiry": "00:00:00, 01-03-2023"
+  },
+  {
+    "name": "Apricot Nectar",
+    "quantity": "8 fl. oz. (240 ml)",
+    "calories": 134,
+    "expiry": "00:00:00, 01-04-2023"
+  },
+  {
+    "name": "Banana Juice",
+    "quantity": "8 fl. oz. (240 ml)",
+    "calories": 120,
+    "expiry": "00:00:00, 01-05-2023"
+  },
+  {
+    "name": "Blackberry Juice",
+    "quantity": "8 fl. oz. (240 ml)",
+    "calories": 115,
+    "expiry": "00:00:00, 01-06-2023"
+  },
+  {
+    "name": "Boysenberry Juice",
+    "quantity": "8 fl. oz. (240 ml)",
+    "calories": 130,
+    "expiry": "00:00:00, 01-07-2023"
+  },
+  {
+    "name": "Capri-Sun",
+    "quantity": "1 capri-sun (200 ml)",
+    "calories": 82,
+    "expiry": "00:00:00, 01-08-2023"
+  },
+  {
+    "name": "Carrot Juice",
+    "quantity": "8 fl. oz. (240 ml)",
+    "calories": 96,
+    "expiry": "00:00:00, 01-09-2023"
+  },
+  {
+    "name": "Chamomile Tea",
+    "quantity": "8 fl. oz. (240 ml)",
+    "calories": 0,
+    "expiry": "00:00:00, 01-10-2023"
+  }
+]
