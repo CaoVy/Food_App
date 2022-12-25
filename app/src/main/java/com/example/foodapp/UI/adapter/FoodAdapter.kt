@@ -19,7 +19,6 @@ class FoodAdapter: Adapter<FoodAdapter.FoodViewHolder>() {
     var itemCheck: ((Int) -> Unit)? = null
     var itemRemove: ((Int) -> Unit)? = null
     var itemAdd: ((Int) -> Unit)? = null
-//    var itemCountDownTimer: ((Int) -> Unit)? = null
 
     fun updateAdapter(foodModels: MutableList<FoodModel>) {
         this.foodModels.clear()
